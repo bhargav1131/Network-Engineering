@@ -11,6 +11,6 @@ This repository contains various **Cisco Packet Tracer** lab files for practicin
 1. Download and install **Cisco Packet Tracer** from [NetAcad](https://www.netacad.com/courses/packet-tracer).  
 2. Clone this repository or download specific `.pkt` files:  
    ```sh
-   git clone https://github.com/bhargav1131/Network_engineering.git
+   git clone https://github.com/bhargav1131/Network-Engineering.git
 
 ---
